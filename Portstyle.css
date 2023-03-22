@@ -5,7 +5,7 @@ body{
 
 }
 .font-primary{
-    color: rgb(0, 255, 255);
+    color: rgb(0, 185, 185);
 }
 
 /******
@@ -43,7 +43,7 @@ About
 }
 .skills{
     font-size: 15px;
-    color: rgb(0, 255, 255);
+    color: rgb(0, 185, 185);
     margin-bottom: 10px;
 }
 #about .email{
